@@ -1,5 +1,5 @@
 all:
   children:
-    nacos-config:
+    nacos-template-config:
       hosts:
         127.0.0.1: 
