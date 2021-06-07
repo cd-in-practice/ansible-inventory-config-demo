@@ -1,4 +1,5 @@
 demo_yaml_config:
+   name: demo.yaml
    format: yaml
    content: |
       spring:

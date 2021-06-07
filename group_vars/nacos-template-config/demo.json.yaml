@@ -1,4 +1,5 @@
 demo_json_config:
+  name: demo.json
   format: json
   content: |
     {
