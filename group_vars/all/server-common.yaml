@@ -1,0 +1,9 @@
+# server's common config
+server:
+  port: 8080
+  grpc: 9098
+
+toggle:
+  loginV2: on
+  saveNas: on
+
