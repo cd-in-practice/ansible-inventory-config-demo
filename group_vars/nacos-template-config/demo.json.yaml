@@ -1,0 +1,7 @@
+demo_json_config:
+  format: json
+  content: |
+    {
+        "mysql-username" : "{{ mysql_db_username }}",
+        "password" : "foot"
+    }

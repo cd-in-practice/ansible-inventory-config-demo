@@ -1,0 +1,5 @@
+demo_properties_config:
+  format: properties
+  config: |
+    server.port = 9090
+    spring.application.name = demoservice
